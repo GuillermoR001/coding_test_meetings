@@ -134,5 +134,16 @@ Here is the code:
 }
 ```
 
+## Example Request
+
+```json
+{
+    "user_ids" : [1,2,6],
+    "start_time" : "2023-08-11 10:00:00",
+    "end_time" : "2023-08-11 11:30:00",
+    "meeting_name" : "Conference"
+}
+```
+
 Meeting stored
 ![meetings](./public/images/meetings.PNG)
